@@ -2,8 +2,12 @@ main:
   - title: "Home"
     url: /about/
 
-  - title: "Registration"
-    url: /registration/
+# uncomment while registration is open
+#  - title: "Registration"
+#    url: /registration/
+
+  - title: "Schedule"
+    url: /schedule/
 
   - title: "Plenary Speakers"
     url: /plenaries/
@@ -16,6 +20,7 @@ main:
 
   - title: "Code of Conduct"
     url: /code/    
+
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
