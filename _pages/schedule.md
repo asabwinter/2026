@@ -1,5 +1,5 @@
 ---
-title: "Preliminary Talk schedule"
+title: "Talk schedule"
 permalink: /schedule/
 layout: single
 author_profile: true
