@@ -8,11 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-## Theme for 2025: How sensory information affects behaviour
+## Theme for 2026: Social Learning and Culture
 
-### Venue: Edinburgh Royal College of Physicians
-### Date: 15th-16th of December
-### Registration now closed
+### Venue: Edinburgh
+### Date: ASAB 8-9th / PSGB 10th December 2026
+### Registration opening soon
 ----
 
 What is it like to be a bat? The conclusion in Thomas Nagel’s famous philosophical discourse was that we probably can never know. However, as animal behaviourists, it is imperative that we both understand the sensory world of other species and incorporate that knowledge in our studies of behaviour. Behaviour is how animals interact with their environment and the senses provide the information necessary for decision-making. Furthermore, in a rapidly changing world, human sounds, light, smells and magnetic fields swamp sensory systems and decision-making processes that evolved under different conditions, leading to maladaptive behaviour. 
